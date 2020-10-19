@@ -1,0 +1,15 @@
+{
+  "name": "lyt_scroll",
+  "version": "1.1.3",
+  "description": "\u0016 自定义滚动条",
+  "main": "scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/lytGit01"
+  },
+  "author": "lyt",
+  "license": "ISC"
+}
